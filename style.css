@@ -2262,7 +2262,8 @@ footer p {
   }
 
   .membership {
-    height: 130vh;
+    max-height: 150vh;
+    height: 100%;
   }
 
   .membership-wave-blue-1 svg {
