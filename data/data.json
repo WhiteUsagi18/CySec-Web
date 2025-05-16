@@ -1,0 +1,13 @@
+{
+  "events": {
+    "latestEvent": {
+      "image": "../resources/events/nexagate trip - pic.jpeg",
+      "title": "FIELD TRIP TO NEXAGATE",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis commodo arcu. Donec lectus metus, feugiat at enim id, porttitor tincidunt purus. Curabitur sed lacinia velit, ac porttitor nunc. Fusce scelerisque ac massa nec accumsan. In efficitur nunc id justo ullamcorper dictum. Etiam nec erat mi. Duis velit dui, vestibulum dapibus eleifend malesuada, ultrices vel dui. Fusce leo leo, vehicula id vestibulum sit amet, pulvinar et quam. Etiam cursus vestibulum ante et facilisis. Duis blandit lorem diam, eu bibendum nulla pellentesque et."
+    },
+    "upcomingEvent": {
+      "image": "../resources/events/nexagate trip - poster.jpeg",
+      "title": "FIELD TRIP TO NEXAGATE"
+    }
+  }
+}
